@@ -91,3 +91,10 @@ User sees only UI; internal logic is hidden.
 
 1.  Prepare GitHub repository.\
 2.  Submit link via GCLamp.
+
+## Video Demonstration Links
+
+- AQUINO, Joseph Angelo — 
+- MERCADO, John Calvin — 
+- SANDING, Neon — 
+- ZACARIAS, Emmanuel Ezekiel — 
