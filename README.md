@@ -1,5 +1,4 @@
-# FINAL PROJECT SUBMISSION -- COMPLETE INSTRUCTIONS
-
+# FINAL PROJECT SUBMISSION
 ### *Brain Syndicate -- Two-Player Web-Based Game Using OOP in PHP*
 
 ## Group Information
