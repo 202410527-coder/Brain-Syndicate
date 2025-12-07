@@ -5,10 +5,10 @@
 
 **Group Name:** Brain Syndicate\
 **Members & Contributions:**\
-- **AQUINO, Joseph Angelo** -- CSS Coding\
-- **MERCADO, JOHN CALVIN** -- PHP Coding\
-- **SANDING, NEON** -- PHP, HTML, CSS\
-- **ZACARIAS, EMMANUEL EZEKIEL** -- HTML Coding
+- **AQUINO, Joseph Angelo** -- Front - End Design (CSS)\
+- **MERCADO, JOHN CALVIN** -- Back - End (PHP)\
+- **SANDING, NEON** -- Back - End & Front - End (PHP, HTML, CSS)\
+- **ZACARIAS, EMMANUEL EZEKIEL** -- Front - End (HTML)
 
 ## Project Overview
 
