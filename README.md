@@ -95,6 +95,6 @@ User sees only UI; internal logic is hidden.
 ## Video Demonstration Links
 
 - AQUINO, Joseph Angelo — https://drive.google.com/drive/folders/1NHjMgs1XX-rXvRYuOa8qHJTgCskhOcXY?usp=drive_link
-- MERCADO, John Calvin — 
+- MERCADO, John Calvin — https://drive.google.com/drive/folders/15XHk23Ql7dd7GoaWO4lxIzANTD41mDa3?usp=drive_link
 - SANDING, Neon — https://drive.google.com/drive/folders/1RzgRxhKOQvfxyy_7SVNjRVK46w0aAqdN?usp=sharing
 - ZACARIAS, Emmanuel Ezekiel — https://drive.google.com/drive/folders/1L-S3Sixr5htBkQ5TboeX9tnAnjRA2U40?usp=drive_link
